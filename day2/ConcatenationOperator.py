@@ -1,0 +1,10 @@
+print(10+10)
+print(10+10.5)
+print(10.5+33.2)
+print('welcome'+'python')
+print(5+True)
+print(False+5)
+print(True+True)
+print(False+False)
+# print(10+'Honey')  exception
+# print('Con'+3)
