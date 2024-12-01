@@ -1,4 +1,4 @@
-# program to print the character count in a string
+# program to print single character count in a string
 
 demo_var = input("Enter a string in lower case : ")
 num = 0
