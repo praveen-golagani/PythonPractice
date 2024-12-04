@@ -6,6 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="d2b81276-5764-4ab3-9220-47600108ff3c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_conditionals2_1dec24.py" beforeDir="false" afterPath="$PROJECT_DIR$/AllPrograms/python_conditionals2_1dec24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_conditionals_1dec24.py" beforeDir="false" afterPath="$PROJECT_DIR$/AllPrograms/python_conditionals_1dec24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_datatypes_30nov24.py" beforeDir="false" afterPath="$PROJECT_DIR$/AllPrograms/python_datatypes_30nov24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_immutable_30nov24.py" beforeDir="false" afterPath="$PROJECT_DIR$/AllPrograms/python_immutable_30nov24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reverse_sentence_3dec24.py" beforeDir="false" afterPath="$PROJECT_DIR$/AllPrograms/reverse_sentence_3dec24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reverse_words_basic_2Dec24.py" beforeDir="false" afterPath="$PROJECT_DIR$/AllPrograms/reverse_words_basic_2Dec24.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +34,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.largestof2_4dec24.executor": "Run",
+    "Python.largestof_4dec24.executor": "Run",
     "Python.reverse_sentence_3dec24.executor": "Run",
     "Python.reverse_words_basic_2Dec24.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\CodingPractice\PythonPractice\PythonPractice\AllPrograms" />
+      <recent name="C:\CodingPractice\PythonPractice\PythonPractice" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
