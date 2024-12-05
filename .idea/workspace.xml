@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2b81276-5764-4ab3-9220-47600108ff3c" name="Changes" comment="" />
+    <list default="true" id="d2b81276-5764-4ab3-9220-47600108ff3c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +30,7 @@
   "keyToString": {
     "Python.largestof2_4dec24.executor": "Run",
     "Python.largestof_4dec24.executor": "Run",
+    "Python.range_func_5dec24.executor": "Run",
     "Python.reverse_sentence_3dec24.executor": "Run",
     "Python.reverse_words_basic_2Dec24.executor": "Run",
     "Python.weekday_4dec24.executor": "Run",
