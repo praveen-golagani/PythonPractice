@@ -1,10 +1,9 @@
-# single line comments
+# single line comments [ aka inline comments]
 ''' This is  Task 4 
-multi-line 
+multi-line  [aka BLOCK comments]
 comments'''
 
-#variables
-#assigning same value to multiple var
+#variables - assigning same value to multiple var
 speed1=speed2=speed3=200
 print(f"values of speed 1 :{speed1}, speed2 :{speed2}, speed3:{speed3}")
 
