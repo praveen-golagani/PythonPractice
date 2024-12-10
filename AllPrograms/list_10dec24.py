@@ -3,6 +3,9 @@ list_cart = ['Ironman',3,54.33,'a',"missile"]
 print(list_cart[1:5])
 print(list_cart[0:5:1])
 print(list_cart)
+#assignment at index
+list_cart[4]="tom"
+print(f"assignment {list_cart}")
 #print list elements in reverse
 print(f"Reversed list using index : {list_cart[::-1]}")
 print(list_cart)
