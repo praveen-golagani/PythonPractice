@@ -21,6 +21,9 @@ print(f"car speed : {car_speed} kms/hr \n"
       f"first bike speed :{bike1_speed} kms/hr \n"
       f"second bike speed : {bike2_speed} kms/hr \n")
 
+car_num, car_brand, mileage, price = 1234, "Mahindra", 15, 14.5
+print(f"car brand : {car_brand}, car num is {car_num}, car mileage is {mileage} kmpl, price is {price} Lakhs")
+
 #type conversion float to int
 num_float = 4.3
 print(f"the data type of {num_float} is {type(num_float)}")
