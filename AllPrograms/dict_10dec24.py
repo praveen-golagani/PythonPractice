@@ -37,19 +37,28 @@ print(flag_item)
 #way1 copy dict to another
 dict_items1 = dict_items
 print(f"dict items 1 : {dict_items1}")
+
 #way2 using copy() function
 dict_items2 = dict_items1.copy()
 print(f"dict items 2 : {dict_items2}")
+
 #del to delete a pair - use key
 del dict_items2["paid"]
 del dict_items1[5]
 print(f"After del  - dict items 1 : {dict_items1}")
 print(f"After del - dict items 2 : {dict_items2}")
+
 # using pop(key)
 print(f"Before pop - dict items  : {dict_items}")
 dict_items.pop("product_count")
 print(f"After pop - dict items  : {dict_items}")
+
 #using clear()
 print(f"Before clear - dict items2  : {dict_items2}")
 dict_items2.clear()
 print(f"After clear - dict items2  : {dict_items2}")
+
+# adding items
+
+dict_items2["car"] = "BE 6E"
+print(dict_items2)
