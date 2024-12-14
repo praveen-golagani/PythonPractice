@@ -1,4 +1,6 @@
 #functions inside a class are methods 'self'
+# self keyword is mandatory for calling variable names into method
+# class level variables should be accessed with class name.variable
 class   Calculator:
     val = 44  #class variable
     #selgf defines object
