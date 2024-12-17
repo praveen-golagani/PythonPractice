@@ -61,3 +61,56 @@ if num3==num4==num5:
 else:
     print(f"{max(num3,num4,num5)} is greater")
     
+#looping and jumping 
+word = input("Enter a word : ")
+skip_letter = input("enter alphabet you want to skip printing : ")
+result_word = ""
+for i in word:
+    if i==skip_letter:
+        continue
+    else:
+        result_word+=i
+        
+print(f"skipped {skip_letter} in {word}, Result : {result_word}")
+
+break_num = int(input("Enter a num b/w 1 to 10 : "))
+# reverse print
+for i in range(10,0,-1):
+    if i == break_num:
+        break
+    else: print(i)
+
+# 1 to 100 tables
+for i in range(1,101):
+    for j in range(1,11):
+        print(f"{i} * {j} =  {i*j}")
+ 
+training = "Python Life"
+#without start point default is 0
+for i in range(5):
+    print(f"{i} . {training}")
+#specify start point   
+for i in range(1,6):
+    print(f"{i} . {training}")
+    
+#odd num
+trainer = "Kiran Sagar"
+for i in range(1,9,2):
+    print(f"{i} . {trainer}")
+
+#while loop
+marks = 90
+while (marks<99):
+    marks += 1
+    if marks == 98:
+        break
+print(marks)
+
+
+# login validation
+user_name = "praveen"
+password = "12345"
+input_username = input("Enter username : ").lower()
+input_pass = input("Enter Password : ")
+# short hand if
+print(f"welcome {user_name}") if input_username==user_name and password==input_pass else print("Invalid credentials")
