@@ -92,12 +92,11 @@ for i in range(5):
 #specify start point   
 for i in range(1,6):
     print(f"{i} . {training}")
-    
+  
 #odd num
 trainer = "Kiran Sagar"
 for i in range(1,9,2):
     print(f"{i} . {trainer}")
-
 #while loop
 marks = 90
 while (marks<99):
@@ -105,7 +104,6 @@ while (marks<99):
     if marks == 98:
         break
 print(marks)
-
 
 # login validation
 user_name = "praveen"
